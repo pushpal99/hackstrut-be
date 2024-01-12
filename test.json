@@ -1,0 +1,11 @@
+{
+  "message": "success",
+  "data": {
+    "first_name": "admin",
+    "last_name":  "admin",
+    "email": "admin@example.com",
+    "phone": "66",
+    "org": "abc",
+    "country": "zam"
+  }
+}
